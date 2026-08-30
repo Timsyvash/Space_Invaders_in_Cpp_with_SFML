@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Space_Invaders_in_Cpp_with_SFML/Space_Invaders_in_Cpp_with_SFML.vcxproj" Id="d1933ee4-fc0a-4fbb-b221-9d1786f78a9d" />
+</Solution>
